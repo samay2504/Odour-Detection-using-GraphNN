@@ -35,7 +35,7 @@ pip = 24.2
 
 Run the following in terminal
 ```bash
-git [repo](https://github.com/samay2504/Odour-Detection-using-GraphNN)
+git https://github.com/samay2504/Odour-Detection-using-GraphNN
 cd ./Odour-GNN
 python3 -m venv venv 
 source venv/bin/activate
